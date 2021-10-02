@@ -1,3 +1,5 @@
+#Prints extension name of '.py', '.txt', '.pdf'
+
 a = input("Input the Filename: ")
 
 b = a.split(".")
